@@ -10,3 +10,6 @@ A script that changes the working directory to the user's home directory
 
 ## 3 - Long format
 A script that lists the contents in long format
+
+## 4 - Hidden files
+A script that lists all files in long format, even hidden files
