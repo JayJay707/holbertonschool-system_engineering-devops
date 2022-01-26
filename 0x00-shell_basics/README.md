@@ -19,3 +19,6 @@ A script that lists all files in long format, with hidden files and with user an
 
 ## 6 - Directory
 A script that creates a new directory in /tmp/
+
+## 7 - Move file
+A script that moves the file betty from /tmp/ to /tmp/my_first_directory
